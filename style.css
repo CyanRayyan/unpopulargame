@@ -1,0 +1,12 @@
+body {
+  color: black;
+}
+h1 {
+  color: orange;
+}
+p {
+  font-family: Arial, Comic Sans;
+  font-size: 100px;
+  color: Chartreuse;
+  text-align: right;
+}
